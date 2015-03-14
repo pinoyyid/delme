@@ -1,7 +1,7 @@
-edited by clevernote
+app
 bower_components
 bower.json
-f
+d
 Gruntfile.js
 LICENSE
 node_modules
