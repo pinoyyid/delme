@@ -25,7 +25,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'bower_components/angular-1.4.0-beta.5/angular.js',
+      'bower_components/angular/angular.js',
       'bower_components/angular-mocks/angular-mocks.js',
       'bower_components/angular-sanitize/angular-sanitize.js',
       'nggapi-lib/libscripts/services/oauth_s.js',
