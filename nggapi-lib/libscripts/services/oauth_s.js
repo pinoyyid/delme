@@ -143,4 +143,3 @@ NgGapi['Config'] = function () {
         }
     };
 };
-//# sourceMappingURL=oauth_s.js.map
