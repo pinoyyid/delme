@@ -10,6 +10,9 @@
 
 [![Build Status](https://api.travis-ci.org/samkeeleyong/delme.svg)](https://travis-ci.org/samkeeleyong/delme)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 9254361... Added travis build badge
+=======
 >>>>>>> 9254361... Added travis build badge
 =======
 >>>>>>> 9254361... Added travis build badge
